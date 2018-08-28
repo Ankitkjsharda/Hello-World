@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-Ankit here, I like JavaScript, and Node.JS
+Ankit here, I like JavaScript and Node.js.
